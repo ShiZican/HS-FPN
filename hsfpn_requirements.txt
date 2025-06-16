@@ -1,0 +1,100 @@
+absl-py==2.1.0
+addict==2.4.0
+aitodpycocotools @ file:///media/omnisky/Disk8.0T/SZC/mmdet-aitod/cocoapi-aitod-master/aitodpycocotools
+aliyun-python-sdk-core==2.15.0
+aliyun-python-sdk-kms==2.16.2
+cachetools==5.5.0
+calflops==0.2.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi==1.15.1
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+crcmod==1.7
+cryptography==42.0.5
+cycler==0.11.0
+Cython==0.29.24
+e2cnn==0.2.3
+einops==0.6.1
+et-xmlfile==1.1.0
+filelock==3.12.2
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+fsspec==2023.1.0
+future==1.0.0
+google-auth==2.37.0
+google-auth-oauthlib==0.4.6
+grpcio==1.62.3
+huggingface-hub==0.16.4
+idna==3.6
+importlib-metadata==6.7.0
+jmespath==0.10.0
+joblib==1.3.2
+kiwisolver==1.4.5
+Markdown==3.4.4
+markdown-it-py==2.2.0
+MarkupSafe==2.1.5
+matplotlib==3.5.0
+mdurl==0.1.2
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+mmcv-full==1.3.17
+# Editable Git install with no remote (mmdet==2.24.1)
+-e /media/omnisky/Disk8.0T/SZC/mmdet-aitod/mmdet-nwdrka
+model-index==0.1.11
+mpmath==1.3.0
+numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1653915516269/work
+oauthlib==3.2.2
+opencv-python==4.9.0.80
+opendatalab==0.0.10
+openmim==0.3.9
+openpyxl==3.1.3
+openxlab==0.0.10
+ordered-set==4.1.0
+oss2==2.17.0
+packaging==24.0
+pandas==1.3.5
+Pillow==9.3.0
+platformdirs==4.0.0
+protobuf==3.20.3
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycocotools==2.0.7
+pycparser==2.21
+pycryptodome==3.20.0
+Pygments==2.17.2
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2023.4
+PyWavelets==1.3.0
+PyYAML==6.0.1
+requests==2.28.2
+requests-oauthlib==2.0.0
+rich==13.7.1
+rsa==4.9
+safetensors==0.4.3
+scikit-learn==1.0.2
+scipy==1.7.3
+setuptools-scm==7.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.10.1
+tabulate==0.9.0
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+terminaltables==3.1.10
+thop==0.1.1.post2209072238
+threadpoolctl==3.1.0
+timm==0.9.12
+tomli==2.0.1
+torch==1.7.1
+torch-dct==0.1.6
+torchaudio==0.7.0a0+a853dff
+torchvision==0.8.2
+tqdm==4.65.2
+typing_extensions @ file:///croot/typing_extensions_1669924550328/work
+urllib3==1.26.18
+Werkzeug==2.2.3
+yapf==0.40.1
+zipp==3.15.0
